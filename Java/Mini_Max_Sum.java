@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Mini_Max_Sum {
 
     public static void main(String[] args) {
         long[] numbers = new long[5];
